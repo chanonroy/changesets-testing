@@ -6,6 +6,7 @@
   "author": "Chanon Roy <chanonroy@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "@changesets/changelog-github": "^0.4.8",
     "@changesets/cli": "^2.26.1"
   }
 }
