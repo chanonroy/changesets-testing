@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "git@github.com:chanonroy/changesets-testing.git",
   "author": "Chanon Roy <chanonroy@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@changesets/cli": "^2.26.1"
+  }
 }
