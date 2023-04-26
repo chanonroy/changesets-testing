@@ -1,5 +1,13 @@
 # changesets-testing
 
+## 0.0.3
+
+### Patch Changes
+
+- [#7](https://github.com/chanonroy/changesets-testing/pull/7) [`9cbc6b3`](https://github.com/chanonroy/changesets-testing/commit/9cbc6b37cca9d6f98e8e61bb38f9369930494469) Thanks [@chanonroy](https://github.com/chanonroy)! - add four
+
+- [#5](https://github.com/chanonroy/changesets-testing/pull/5) [`302d237`](https://github.com/chanonroy/changesets-testing/commit/302d237b186691a3972d2ca41ee52913ece1ecd9) Thanks [@chanonroy](https://github.com/chanonroy)! - add three
+
 ## 0.0.2
 
 ### Patch Changes
