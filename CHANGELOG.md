@@ -1,5 +1,15 @@
 # changesets-testing
 
+## 0.1.0
+
+### Minor Changes
+
+- [#8](https://github.com/chanonroy/changesets-testing/pull/8) [`1aa1cbe`](https://github.com/chanonroy/changesets-testing/commit/1aa1cbe8a92095e52c95c0c3608c08c228e37cbf) Thanks [@chanonroy](https://github.com/chanonroy)! - Add a minor change
+
+### Patch Changes
+
+- [#8](https://github.com/chanonroy/changesets-testing/pull/8) [`1aa1cbe`](https://github.com/chanonroy/changesets-testing/commit/1aa1cbe8a92095e52c95c0c3608c08c228e37cbf) Thanks [@chanonroy](https://github.com/chanonroy)! - Add a patch change
+
 ## 0.0.3
 
 ### Patch Changes
